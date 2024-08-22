@@ -15,7 +15,7 @@ from pygame.locals import (
 # Game settings
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 700
-GRAVITY = 1  # Gravity value for the jet's fall
+GRAVITY = 1  # Gravity value for the jet's fall test
 JUMP_SPEED = -15
 BULLET_COOLDOWN = 300  # milliseconds
 
